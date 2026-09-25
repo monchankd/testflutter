@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678",
+      "avatar": "https://example.com/avatars/an.jpg",
+      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bình",
+      "email": "tranthibinh@gmail.com",
+      "phone": "0923456789",
+      "avatar": null,
+      "dateOfBirth": "1985-11-20T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Lê Hoàng Nam",
+      "email": "lehoangnam@gmail.com",
+      "phone": "0934567890",
+      "avatar": "https://example.com/avatars/nam.jpg",
+      "dateOfBirth": "1992-03-10T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Minh Anh",
+      "email": "phamminhanh@gmail.com",
+      "phone": "0945678901",
+      "avatar": null,
+      "dateOfBirth": "1995-07-22T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Vũ Đức Huy",
+      "email": "vuduchuy@gmail.com",
+      "phone": "0956789012",
+      "avatar": "https://example.com/avatars/huy.jpg",
+      "dateOfBirth": "1988-09-14T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Đỗ Thu Hà",
+      "email": "dothuha@gmail.com",
+      "phone": "0967890123",
+      "avatar": null,
+      "dateOfBirth": "1993-12-05T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "name": "Ngô Quang Minh",
+      "email": "ngoquangminh@gmail.com",
+      "phone": "0978901234",
+      "avatar": "https://example.com/avatars/minh.jpg",
+      "dateOfBirth": "1991-01-30T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "name": "Bùi Ngọc Lan",
+      "email": "buingoclan@gmail.com",
+      "phone": "0989012345",
+      "avatar": null,
+      "dateOfBirth": "1987-06-18T00:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "name": "Phan Gia Bảo",
+      "email": "phangiabao@gmail.com",
+      "phone": "0990123456",
+      "avatar": "https://example.com/avatars/bao.jpg",
+      "dateOfBirth": "1996-10-25T00:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Hoàng Thùy Dương",
+      "email": "hoangthuyduong@gmail.com",
+      "phone": "0901234567",
+      "avatar": null,
+      "dateOfBirth": "1994-04-12T00:00:00.000Z"
+    }
+  ]
+}
